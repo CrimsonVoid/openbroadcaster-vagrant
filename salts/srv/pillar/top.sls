@@ -1,0 +1,3 @@
+base:
+  '*':
+    - ob_vars

@@ -1,0 +1,5 @@
+base:
+  '*':
+    - apache
+    - mysql
+    - openbroadcaster
